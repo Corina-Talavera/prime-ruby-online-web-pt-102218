@@ -2,7 +2,8 @@
 require_relative './spec_helper'
 require_relative '../prime.rb'
 
-def prime
+def prime_array_true
+  prime_array_true = ["2","3", "11", "105557"]
   
 
 describe "prime?" do
