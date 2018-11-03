@@ -4,7 +4,7 @@ require_relative '../prime.rb'
 
 def prime_array_true
   prime_array_true = ["2","3", "11", "105557"]
-  prime?
+  
   
 
 describe "prime?" do
