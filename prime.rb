@@ -14,4 +14,4 @@ end
     prime?(1763) #=> FALSE
     prime?(101013) #=> FALSE
   end
-puts prime_false
+end
